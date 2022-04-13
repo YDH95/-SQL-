@@ -1,0 +1,4 @@
+-- 4가 나와야 되는줄 알았다
+SELECT COUNT(*) count
+FROM ANIMAL_INS
+--WHERE intake_condition = 'Sick'
